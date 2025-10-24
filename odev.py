@@ -12,6 +12,9 @@ while liste:
 print(f"Sayıların büyükten küçüğe sıralanışı: {buyuktenKucuge}")
 
 
+print(f"En büyük sayı: {buyuktenKucuge[0]}")
+print(f"En küçük sayı: {buyuktenKucuge[-1]}")
+
 
 i = 0
 toplam = 0
